@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Generated vector database
+vectorstore/
+
+# Uploaded PDF files
+data/*.pdf
+
+# Model cache
+.cache/
+.cache_huggingface/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
